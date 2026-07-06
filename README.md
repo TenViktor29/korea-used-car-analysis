@@ -71,7 +71,7 @@
 ## 🚀 Как запустить
 
 ```bash
-git clone https://github.com/<your-username>/korea-used-car-analysis.git
+git clone https://github.com/TenViktor29/korea-used-car-analysis.git
 cd korea-used-car-analysis
 pip install -r requirements.txt
 
@@ -87,4 +87,4 @@ python src/analysis.py        # EDA + модель + графики
 - Учесть сезонность спроса и специфику растаможки в Монголии отдельно от РФ.
 
 ---
-*Автор: Виктор Тен · [GitHub](https://github.com/<your-username>) · выполнено в рамках обучения на курсе Нетология "Data Scientist с нуля до мидл"*
+*Автор: Виктор Тен · [GitHub](https://github.com/TenViktor29) · выполнено в рамках обучения на курсе Нетология "Data Scientist с нуля до мидл"*
